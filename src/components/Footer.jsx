@@ -1,6 +1,7 @@
 import React from 'react'
 
 
+
 const Footer = () => {
   return (
     <>
@@ -48,7 +49,6 @@ const Footer = () => {
                 </div>
             </div>
         </section>
-        {/* <!-- Footer--> */}
         <footer class="footer bg-light">
             <div class="container">
                 <div class="row">

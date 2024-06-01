@@ -1,0 +1,25 @@
+.add{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row-reverse;
+}
+.imag-container{
+    width: 600px;
+}
+.add2{
+    display: flex;
+    justify-content: space-around;
+    flex-direction:row-reverse
+}
+.img-container2{
+    width: 600px
+} 
+
+.add3{
+    display: flex;
+    justify-content: space-around;
+    flex-direction:
+}
+.img-container3{
+    width: 600px
+} 

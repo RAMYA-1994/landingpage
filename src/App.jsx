@@ -5,7 +5,8 @@ import Icoins from "./components/Icons"
 // import Images from "./components/Images"
 import Footer from "./components/Footer"
 // import { useState } from "react"
-import { backimge } from "./assets/img"
+// import { backimge } from "./assets/img"
+import Photo from "./components/Photo"
 import Pictures from "./components/Pictures"
 function App(){
     return(
@@ -14,8 +15,9 @@ function App(){
         <Navbar/>
         <Header />
         <Icoins />
+        <Photo />
         <Pictures />
-        {/* <Images /> */}
+       
         <Footer/>
    
         </>
